@@ -54,3 +54,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'react_on_rails', '11.1.4' # Use the exact gem version to match npm version
+
+gem 'mini_racer', platforms: :ruby
